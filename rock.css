@@ -1,0 +1,87 @@
+body{   
+text-align: center;
+background-color: black;
+
+}
+#All{
+ border: 2px solid rgb(69, 64, 64);   
+box-shadow: 12px 12px 42px 22px rgb(169, 168, 168);
+background-color: rgb(56, 55, 56);
+border-radius: 50px;   
+}
+#first{ 
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+      margin:12px;
+}
+#subfirst{
+box-shadow: 2px 12pX 12px 12px rgb(24, 24, 24);
+    width: 300px;
+     font-size: 14rem;
+     border-radius: 60px;
+
+}
+#subsubfirst{
+    box-shadow: 2px 12pX 12px 12px rgb(24, 24, 24);
+   border-radius: 60px;
+    width: 300px;
+     font-size: 14rem;
+}
+#second{ 
+    box-shadow: 2px 12pX 12px 12px rgb(24, 24, 24);
+    height: 100px;
+    margin:72px;
+    font-size: 2rem;
+    font-weight: 100;
+    font-style: italic;
+   color:white;
+   border-radius: 70px;
+}
+#third{ 
+  display: flex;
+    justify-content: space-around;
+    height: 100px;
+      margin:12px;
+      padding: 10px;
+ 
+}
+#subthird{
+    border-radius: 32px;
+   box-shadow: 2px 12pX 12px 12px rgb(98, 86, 86);
+    width: 200px;
+    font-size: 2rem;
+    background-color: rgb(56, 55, 56);
+}
+#subsubthird{
+    background-color: rgb(56, 55, 56);
+     border-radius: 32px;
+    width: 200px;
+    font-size: 2rem;
+    box-shadow: 2px 12pX 12px 12px rgb(98, 86, 86);
+}
+#subsubsubthird{
+  background-color: rgb(56, 55, 56);
+     border-radius: 32px;
+    width: 200px;
+    font-size: 2rem;
+    box-shadow: 2px 12pX 12px 12px rgb(98, 86, 86);
+}
+#subthird:hover{
+    background-color: rgb(252, 183, 8);
+}
+#subthird:active{
+  background-color: rgb(19, 199, 222);
+}
+#subsubthird:hover{
+    background-color: rgb(252, 183, 8);
+}
+#subsubthird:active{
+      background-color: rgb(19, 199, 222);
+}
+#subsubsubthird:hover{
+    background-color: rgb(252, 183, 8);
+}
+#subsubsubthird:active{
+    background-color: rgb(19, 199, 222);
+}
