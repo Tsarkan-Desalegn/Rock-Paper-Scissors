@@ -1,7 +1,7 @@
 
 # Rock-Paper-Scissors Game ✊🖐️✌️
 
-A simple **Rock-Paper-Scissors** game built with **HTML, CSS, and JavaScript**.  
+A simple **Rock-Paper-Scissors** game built with **HTML, CSS, and JavaScript** and with good user interface.  
 Players can choose Rock, Paper, or Scissors, and the computer generates a random choice.  
 The result (Win, Lose, or Draw) is displayed instantly.
 
